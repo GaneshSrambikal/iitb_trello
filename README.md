@@ -12,14 +12,14 @@ In this documetation includes:
 
 ## 1. Introduction
 
-### - Goals
-        - Implementing a simple web page which has 3 column lists (simple bootstrap design is preferred).
-        - Each column will contain multiple cards.
-        - The order of the cards should be maintained.
-        - The card should show a title and a description.
-        - The state should be maintained after refresh.
-        - There should be a button at the top to add a new card.
-        - ***(Bonus Point)*** User should be able to move a card from one column to another by drag and drop.
+### Goals
+- Implementing a simple web page which has 3 column lists (simple bootstrap design is preferred).
+- Each column will contain multiple cards.
+- The order of the cards should be maintained.
+- The card should show a title and a description.
+- The state should be maintained after refresh.
+- There should be a button at the top to add a new card.
+- ***(Bonus Point)*** User should be able to move a card from one column to another by drag and drop.
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
