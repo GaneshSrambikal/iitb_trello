@@ -33,17 +33,19 @@ In this documetation includes:
         - There should be a button to delete the card in the popup.
 ### References
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
 Learn [Bootstrap 5](https://getbootstrap.com/) now.
-[Drag And Drop API ](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)
-[Refs and the DOM](https://reactjs.org/docs/refs-and-the-dom.html)
+
+[Drag And Drop API ](https://developer.mozilla.org/.en-US/docs/Web/API/HTML_Drag_and_Drop_API).
+
+[Refs and the DOM](https://reactjs.org/docs/refs-and-the-dom.html).
+
 [React Hooks](https://reactjs.org/docs/hooks-intro.html)
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
+### Overview
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
