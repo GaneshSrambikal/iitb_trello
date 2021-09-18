@@ -32,7 +32,7 @@ In this documetation includes:
         - There should be a button to delete the card in the popup.
 
 ### System Overview
-The App allow to create task and have a track using different status (i.e Doing, Done).
+The App let's you create task and have a track using different status (i.e Doing, Done).
 
 - #### Features
     - Add Card
@@ -47,6 +47,43 @@ The App allow to create task and have a track using different status (i.e Doing,
 - #### Functionality
     - ##### Add Card
         - On clicking the add card button, a modal popup should be shown with a form.
+        - The form will contain title, description and column selection dropdown.
+        - Title will be validated and should only contain alphabets.
+        - Description will be validated and should be atleast 25 characters or more.
+        - On submit, the card will add to the end of the selected column.
+    - #### Edit Card
+        - On clicking a card, the add card modal popup should be shown with the add card form with the prefilled data.
+        - If the user changes the column then, the card shouldbe added to the end of the selected column.
+        - There should be a button to delete the card in the popup.
+    - #### Delete Card
+        - There will be a button to delete the card in the popup.
+        - There will be a button on the card to delete the card.
+    - #### Drag and Drop
+        - User can move a card from one column to another by drag and drop.
+        - it sets the card's status to selected column and adds to the bottom of the column.
+- ### UI Components
+    - #### Modals
+        - Uses bootstrap's [Modal](https://getbootstrap.com/docs/5.1/components/modal/) to
+            - show Add Popup
+            - show Edit Popup
+    - #### Cards
+        - Uses bootstrap's [Card](https://getbootstrap.com/docs/5.1/components/card/) to
+            - show individual task's with title and descriptions and status.
+    - #### Collapse
+        - Uses bootstrap's [Collapse](https://getbootstrap.com/docs/5.1/components/collapse/) to
+            - show each columns with cards
+    - #### Placeholder
+        - Uses boostrap's [Placeholder](https://getbootstrap.com/docs/5.1/components/placeholders/) to 
+            - show loading state of the cards
+    - #### Buttons
+        - Uses bootstrap's [Button](https://getbootstrap.com/docs/5.1/components/buttons/) to
+            - show buttons on cards and modals
+    - #### Badges
+        - Uses bootstrap's [Badge](https://getbootstrap.com/docs/5.1/components/badge/) to
+            - show the count of cards in the columns
+    
+    
+
 ### References
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
