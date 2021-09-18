@@ -1,6 +1,8 @@
 # Trello_MockUp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Simple Todo Web App with task tracking .
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and uses [bootstrap](https://getbootstrap.com/). 
+No other additional libraries are used.
 
 ## Available Scripts
 
