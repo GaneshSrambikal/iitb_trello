@@ -31,6 +31,12 @@ In this documetation includes:
         - On clicking a card, the add card modal popup should be shown with the add card form with the prefilled data.
         - If the user changes the column then, the card should be added to the end of the selected column.
         - There should be a button to delete the card in the popup.
+### References
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Learn [Bootstrap 5](https://getbootstrap.com/) now.
+[Drag And Drop API ](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)
+[Refs and the DOM](https://reactjs.org/docs/refs-and-the-dom.html)
+[React Hooks](https://reactjs.org/docs/hooks-intro.html)
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
