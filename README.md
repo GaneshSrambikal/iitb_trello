@@ -88,19 +88,23 @@ The App let's you create task and have a track using different status (i.e Doing
 ![Main Page](public/assets/mains.png?raw=true)
 
 #### Add Modal
-![Main Page](public/assets/mains.png?raw=true)
+![add modal](public/assets/addtodo.png?raw=true)
 
 #### Edit Modal
-![Main Page](public/assets/mains.png?raw=true)
+![edit modal](public/assets/edittodo.png?raw=true)
 
 #### Loading state
-![Main Page](public/assets/mains.png?raw=true)
+![loading state](public/assets/loadingstate.png?raw=true)
 
 #### Empty state
-![Main Page](public/assets/mains.png?raw=true)
+![Empty state](public/assets/empty.png?raw=true)
+
+#### Error
+![Error](public/assets/error.png?raw=true)
 
 #### Mobile View
-![Main Page](public/assets/mains.png?raw=true)
+![Main Page](public/assets/mobile.png?raw=true)
+
 
 ### References
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
