@@ -6,9 +6,8 @@ No other additional libraries are used.
 
 In this documetation includes:
 * Introduction
-* Overview
-* Executive Summary
 * System Overview
+* Reference
 
 ## 1. Introduction
 
@@ -31,6 +30,23 @@ In this documetation includes:
         - On clicking a card, the add card modal popup should be shown with the add card form with the prefilled data.
         - If the user changes the column then, the card should be added to the end of the selected column.
         - There should be a button to delete the card in the popup.
+
+### System Overview
+The App allow to create task and have a track using different status (i.e Doing, Done).
+
+    #### Features
+        - Add Card
+        - Edit Card
+        - Delete Card
+        - Drag and Drop cards to different columns
+    #### User Activities
+        - User can create a task with title, description and a set status (todo,doing,done).
+        - User can edit a task's title,description and status 
+        - User can delete an individual task
+        - User can drag and drop task to desired column and the task gets added to the bottom of the selected column
+    #### Functionality
+        - ##### Add Card
+            - On clicking the add card button, a modal popup should be shown with a form.
 ### References
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
@@ -40,13 +56,10 @@ Learn [Bootstrap 5](https://getbootstrap.com/) now.
 
 [Refs and the DOM](https://reactjs.org/docs/refs-and-the-dom.html).
 
-[React Hooks](https://reactjs.org/docs/hooks-intro.html)
+[React Hooks](https://reactjs.org/docs/hooks-intro.html).
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-### Overview
-
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
