@@ -84,6 +84,22 @@ The App let's you create task and have a track using different status (i.e Doing
 
 
 ### Screens
+#### Main Page
+![Main Page](public/assets/mains.png?raw=true)
+
+#### Add Modal
+![Main Page](public/assets/mains.png?raw=true)
+
+#### Edit Modal
+![Main Page](public/assets/mains.png?raw=true)
+
+#### Loading state
+![Main Page](public/assets/mains.png?raw=true)
+
+#### Empty state
+![Main Page](public/assets/mains.png?raw=true)
+
+#### Mobile View
 ![Main Page](public/assets/mains.png?raw=true)
 
 ### References
