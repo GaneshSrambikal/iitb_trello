@@ -23,6 +23,14 @@ In this documetation includes:
 - UI Goals
     - #### Add Card
         - On clicking the add card button, a modal popup should be shown with a form. 
+        - The form should contain title, description and column selection dropdown.
+        - Title should be validated and should only contain alphabets.
+        - Description should be validated and should be minimum 25 characters.
+        - On submit, the card should be added to the end of the selected column.
+    - #### Edit Card
+        - On clicking a card, the add card modal popup should be shown with the add card form with the prefilled data.
+        - If the user changes the column then, the card should be added to the end of the selected column.
+        - There should be a button to delete the card in the popup.
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
