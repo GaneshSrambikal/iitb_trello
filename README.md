@@ -81,8 +81,11 @@ The App let's you create task and have a track using different status (i.e Doing
     - #### Badges
         - Uses bootstrap's [Badge](https://getbootstrap.com/docs/5.1/components/badge/) to
             - show the count of cards in the columns
-    
-    
+
+
+### Screens
+    - Main Page
+        - ![alt text](https://github.com/GaneshSrambikal/iitb_trello/blob/master/public/assets/optimistic-bardee.png?raw=true)
 
 ### References
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
@@ -97,3 +100,5 @@ Learn [Bootstrap 5](https://getbootstrap.com/) now.
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
