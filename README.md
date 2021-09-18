@@ -34,19 +34,19 @@ In this documetation includes:
 ### System Overview
 The App allow to create task and have a track using different status (i.e Doing, Done).
 
-    - #### Features
-        - Add Card
-        - Edit Card
-        - Delete Card
-        - Drag and Drop cards to different columns
-    - #### User Activities
-        - User can create a task with title, description and a set status (todo,doing,done).
-        - User can edit a task's title,description and status 
-        - User can delete an individual task
-        - User can drag and drop task to desired column and the task gets added to the bottom of the selected column
-    - #### Functionality
-        - ##### Add Card
-            - On clicking the add card button, a modal popup should be shown with a form.
+- #### Features
+    - Add Card
+    - Edit Card
+    - Delete Card
+    - Drag and Drop cards to different columns
+- #### User Activities
+    - User can create a task with title, description and a set status (todo,doing,done).
+    - User can edit a task's title,description and status 
+    - User can delete an individual task
+    - User can drag and drop task to desired column and the task gets added to the bottom of the selected column
+- #### Functionality
+    - ##### Add Card
+        - On clicking the add card button, a modal popup should be shown with a form.
 ### References
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
