@@ -84,8 +84,7 @@ The App let's you create task and have a track using different status (i.e Doing
 
 
 ### Screens
-    - Main Page
-    ![alt text](https://github.com/GaneshSrambikal/iitb_trello/blob/master/public/assets/optimistic-bardee.png?raw=true)
+    ![Main Page](https://github.com/GaneshSrambikal/iitb_trello/blob/master/public/assets/optimistic-bardee.png?raw=true)
 
 ### References
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
